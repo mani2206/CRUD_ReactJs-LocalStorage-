@@ -61,7 +61,7 @@ const Form = () => {
             value={input.phoneNumber}
             onChange={handleChange}
             pattern="[0-9]{10}"
-            placeholder="8608097856"
+            placeholder="9047578635"
             className="text input-name1"
             required
           />
@@ -74,7 +74,7 @@ const Form = () => {
             value={input.phoneNumber2}
             onChange={handleChange}
             pattern="[0-9]{10}"
-            placeholder="8608097856"
+            placeholder="9047578635"
             className="text input-name1"
           />
         </div>
@@ -86,7 +86,7 @@ const Form = () => {
             value={input.phoneNumber3}
             onChange={handleChange}
             pattern="[0-9]{10}"
-            placeholder="8608097856"
+            placeholder="9047578635"
             className="text input-name1"
           />
         </div>
